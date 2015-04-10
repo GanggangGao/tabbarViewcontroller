@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45F54EAE-4718-4645-BDEF-C91AA2148284</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tabbarViewcontroller</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B30C5DFF83A8C3BD46D4536B7298102E113A1734</key>
+		<string>https://github.com/gangganggao3g/tabbarViewcontroller</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tabbarViewcontroller.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B30C5DFF83A8C3BD46D4536B7298102E113A1734</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gangganggao3g/tabbarViewcontroller</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B30C5DFF83A8C3BD46D4536B7298102E113A1734</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B30C5DFF83A8C3BD46D4536B7298102E113A1734</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tabbarViewcontroller</string>
+		</dict>
+	</array>
+</dict>
+</plist>
